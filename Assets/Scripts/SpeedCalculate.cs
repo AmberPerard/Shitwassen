@@ -5,9 +5,18 @@ using UnityEngine;
 public class SpeedCalculate : MonoBehaviour
 {
 
-    private float timer = 5f;
+    //private float timer = 5f;
     private int P1Clicks;
     private int P2Clicks;
+
+    private float timerL;
+    private float timerK;
+    private float speedL;
+    private float speedK;
+    private float clicksPerSecL;
+    private float clicksPerSecK;
+
+    private  float speedAddative;
 
     public GameController gameController;
     // Start is called before the first frame update
@@ -19,25 +28,23 @@ public class SpeedCalculate : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        timer += Time.deltaTime;
+        
 
-        if (timer < 1)
-        {
-            if (Input.GetKeyDown("l")) P1Clicks++;
-            if (Input.GetKeyDown("k")) P2Clicks++;
+        if(Input.GetKeyDown("l")) {
+            Debug.Log("L had " + timerL + " seconds sinds the last click.");
+            timerL = 0;
         }
-        else
-        {
-            Debug.Log("I had " + P1Clicks + " in that last second.");
-            Debug.Log("I had " + P2Clicks + " in that last second.");
 
-            int speedAddative = P1Clicks - P2Clicks;
-            Debug.Log(speedAddative);
-            gameController.speed = speedAddative/2;
-
-            P2Clicks = 0;
-            P1Clicks = 0;
-            timer = 0f;
+        if(Input.GetKeyDown("k")) {
+            Debug.Log("K had " + timerK + " seconds sinds the last click.");
+            timerK = 0;
         }
-    }
+
+        timerL += Time.deltaTime;
+        timerK += Time.deltaTime;
+            
+        speedAddative = (1/timerL) - (1/timerK);
+        Debug.Log("speed: "+ speedAddative);
+        gameController.speed = -(speedAddative/10);
+}
 }

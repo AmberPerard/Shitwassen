@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 public class GameController : MonoBehaviour
 {
     public GameObject MoveTshirt;
-    public int speed;
+    public float speed;
 
     // The popscreens for the info
     public GameObject beginScreen;
@@ -55,7 +55,7 @@ public class GameController : MonoBehaviour
 
         if (gameIsActive == true)
          {
-            MoveTshirt.transform.Translate(Vector3.right * speed/200);
+            MoveTshirt.transform.Translate(Vector3.right * speed *Time.deltaTime);
          }
 
      if (MoveTshirt.transform.position.x >= 4.2)
