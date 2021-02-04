@@ -55,8 +55,11 @@ public class GameController : MonoBehaviour
 
         if (gameIsActive == true)
          {
-            MoveTshirt.transform.Translate(Vector3.right * speed *Time.deltaTime);
-         }
+            MoveTshirt.transform.Translate(Vector3.right * speed * Time.deltaTime);
+            //MoveTshirt.transform.position = Vector3.MoveTowards(MoveTshirt.transform.position, Vector3.right, speed * Time.deltaTime);
+            //Vector3 destination = Vector3.up * speed * Time.deltaTime;
+            //MoveTshirt.transform.transform.position = Vector3.Lerp(MoveTshirt.transform.position, destination, speed * Time.deltaTime);
+        }
 
      if (MoveTshirt.transform.position.x >= 4.2)
         {

@@ -6,15 +6,15 @@ public class SpeedCalculate : MonoBehaviour
 {
 
     //private float timer = 5f;
-    private int P1Clicks;
-    private int P2Clicks;
+    //private int P1Clicks;
+    //private int P2Clicks;
 
     private float timerL;
     private float timerK;
-    private float speedL;
-    private float speedK;
-    private float clicksPerSecL;
-    private float clicksPerSecK;
+    //private float speedL;
+    //private float speedK;
+    //private float clicksPerSecL;
+    //private float clicksPerSecK;
 
     private  float speedAddative;
 
