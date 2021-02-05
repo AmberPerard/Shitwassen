@@ -1,0 +1,730 @@
+fileFormatVersion: 2
+guid: ed25c16bd047b4010b61fa84aa8d1e6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8848025693526400381
+    second: wasmachine_0
+  - first:
+      213: -2495599225648287113
+    second: wasmachine_1
+  - first:
+      213: -7926829272916342017
+    second: wasmachine_2
+  - first:
+      213: -5696871038303530707
+    second: wasmachine_3
+  - first:
+      213: 6398990500449837432
+    second: wasmachine_4
+  - first:
+      213: -5013365804819125130
+    second: wasmachine_5
+  - first:
+      213: -6798178239193273892
+    second: wasmachine_6
+  - first:
+      213: -5922579666911365150
+    second: wasmachine_7
+  - first:
+      213: 3261494581043503203
+    second: wasmachine_8
+  - first:
+      213: 5528752326132477716
+    second: wasmachine_9
+  - first:
+      213: -1733782780170807205
+    second: wasmachine_10
+  - first:
+      213: -6977044585291274003
+    second: wasmachine_11
+  - first:
+      213: -3073334010183195245
+    second: wasmachine_12
+  - first:
+      213: -5456125021409794586
+    second: wasmachine_13
+  - first:
+      213: -1868454209294431336
+    second: wasmachine_14
+  - first:
+      213: 2940152932541160703
+    second: wasmachine_15
+  - first:
+      213: 5469651966327078885
+    second: wasmachine_16
+  - first:
+      213: -2312828828511712720
+    second: wasmachine_17
+  - first:
+      213: 7122645033715970393
+    second: wasmachine_18
+  - first:
+      213: 4155258252865351985
+    second: wasmachine_19
+  - first:
+      213: -9004862792887512270
+    second: wasmachine_20
+  - first:
+      213: 2469349464216158320
+    second: wasmachine_21
+  - first:
+      213: 8843810669773254599
+    second: wasmachine_22
+  - first:
+      213: 175120809350178645
+    second: wasmachine_23
+  - first:
+      213: 8349488844318981020
+    second: wasmachine_24
+  - first:
+      213: -5727510482372564870
+    second: wasmachine_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wasmachine_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 460
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d9b2a4d708aca70800000000000000
+      internalID: 8848025693526400381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachine_1
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 460
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7727e7df9b9dd5dd0800000000000000
+      internalID: -2495599225648287113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachine_2
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 460
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa47a046ce3ef190800000000000000
+      internalID: -7926829272916342017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachine_3
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 460
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2115b659f5a0f0b0800000000000000
+      internalID: -5696871038303530707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachine_4
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 460
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8716964f4f7cdc850800000000000000
+      internalID: 6398990500449837432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachine_5
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 460
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c6aaacc52fc6ab0800000000000000
+      internalID: -5013365804819125130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachine_6
+      rect:
+        serializedVersion: 2
+        x: 3700
+        y: 468
+        width: 416
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd92815e8e408a1a0800000000000000
+      internalID: -6798178239193273892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachine_7
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 468
+        width: 416
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7fbcf0c25cecda0800000000000000
+      internalID: -5922579666911365150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachine_8
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 468
+        width: 416
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360a5f39a08234d20800000000000000
+      internalID: 3261494581043503203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachine_9
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 460
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fad32b2f21abc40800000000000000
+      internalID: 5528752326132477716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachine_10
+      rect:
+        serializedVersion: 2
+        x: 6100
+        y: 468
+        width: 416
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58da365fbd50f7e0800000000000000
+      internalID: -1733782780170807205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachine_11
+      rect:
+        serializedVersion: 2
+        x: 6700
+        y: 468
+        width: 416
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8a6a76aee8c2f90800000000000000
+      internalID: -6977044585291274003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachine_12
+      rect:
+        serializedVersion: 2
+        x: 7300
+        y: 460
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39567ee30035955d0800000000000000
+      internalID: -3073334010183195245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachine_13
+      rect:
+        serializedVersion: 2
+        x: 7900
+        y: 460
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5afb86333f744b0800000000000000
+      internalID: -5456125021409794586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachine_14
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 460
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b0cefcbcae116e0800000000000000
+      internalID: -1868454209294431336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachine_15
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 460
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc5079b3858dc820800000000000000
+      internalID: 2940152932541160703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachine_16
+      rect:
+        serializedVersion: 2
+        x: 9700
+        y: 460
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef31f1eb7b18eb40800000000000000
+      internalID: 5469651966327078885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachine_17
+      rect:
+        serializedVersion: 2
+        x: 10300
+        y: 460
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ac6423f6e27efd0800000000000000
+      internalID: -2312828828511712720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachine_18
+      rect:
+        serializedVersion: 2
+        x: 10900
+        y: 460
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95137d7bbe7b8d260800000000000000
+      internalID: 7122645033715970393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachine_19
+      rect:
+        serializedVersion: 2
+        x: 11500
+        y: 468
+        width: 416
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131bc009d517aa930800000000000000
+      internalID: 4155258252865351985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachine_20
+      rect:
+        serializedVersion: 2
+        x: 12100
+        y: 460
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233decaeffc480380800000000000000
+      internalID: -9004862792887512270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachine_21
+      rect:
+        serializedVersion: 2
+        x: 12700
+        y: 460
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070c7e82144e44220800000000000000
+      internalID: 2469349464216158320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachine_22
+      rect:
+        serializedVersion: 2
+        x: 13300
+        y: 460
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfe4a892f68bba70800000000000000
+      internalID: 8843810669773254599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachine_23
+      rect:
+        serializedVersion: 2
+        x: 13900
+        y: 460
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557a812c2772e6200800000000000000
+      internalID: 175120809350178645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachine_24
+      rect:
+        serializedVersion: 2
+        x: 14500
+        y: 460
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b38bdcdd75fd370800000000000000
+      internalID: 8349488844318981020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachine_25
+      rect:
+        serializedVersion: 2
+        x: 15100
+        y: 460
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a786bdadf8bc380b0800000000000000
+      internalID: -5727510482372564870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

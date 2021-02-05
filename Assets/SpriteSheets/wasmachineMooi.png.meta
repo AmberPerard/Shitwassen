@@ -1,0 +1,2266 @@
+fileFormatVersion: 2
+guid: bd00e57f8615b43ad8ec65ad64d9236e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2917584954786734352
+    second: wasmachineMooi_0
+  - first:
+      213: 4253760624328730515
+    second: wasmachineMooi_1
+  - first:
+      213: -5985088618911454280
+    second: wasmachineMooi_2
+  - first:
+      213: 1677597817806071672
+    second: wasmachineMooi_3
+  - first:
+      213: 8283811125689169863
+    second: wasmachineMooi_4
+  - first:
+      213: 3766222962574830469
+    second: wasmachineMooi_5
+  - first:
+      213: 3912582887887813227
+    second: wasmachineMooi_6
+  - first:
+      213: 8213709795395217102
+    second: wasmachineMooi_7
+  - first:
+      213: 4309570979259382689
+    second: wasmachineMooi_8
+  - first:
+      213: -6829386529744296630
+    second: wasmachineMooi_9
+  - first:
+      213: 7114429121022162037
+    second: wasmachineMooi_10
+  - first:
+      213: 7752057982288110023
+    second: wasmachineMooi_11
+  - first:
+      213: 3101170873212602771
+    second: wasmachineMooi_12
+  - first:
+      213: 8751951919274664948
+    second: wasmachineMooi_13
+  - first:
+      213: -3851727219165019243
+    second: wasmachineMooi_14
+  - first:
+      213: -6582125318022021782
+    second: wasmachineMooi_15
+  - first:
+      213: -7752722391397218970
+    second: wasmachineMooi_16
+  - first:
+      213: -8224269043979201522
+    second: wasmachineMooi_17
+  - first:
+      213: 8607763055321176744
+    second: wasmachineMooi_18
+  - first:
+      213: 1456782365993885364
+    second: wasmachineMooi_19
+  - first:
+      213: 4936290313777345412
+    second: wasmachineMooi_20
+  - first:
+      213: -592403279589013452
+    second: wasmachineMooi_21
+  - first:
+      213: -1054479497253793154
+    second: wasmachineMooi_22
+  - first:
+      213: 3965207227251935055
+    second: wasmachineMooi_23
+  - first:
+      213: 2903733318342049053
+    second: wasmachineMooi_24
+  - first:
+      213: 1580887360083300862
+    second: wasmachineMooi_25
+  - first:
+      213: -9222382097913327850
+    second: wasmachineMooi_26
+  - first:
+      213: 7336109954660565421
+    second: wasmachineMooi_27
+  - first:
+      213: 6335222419035359494
+    second: wasmachineMooi_28
+  - first:
+      213: -2780238096228421661
+    second: wasmachineMooi_29
+  - first:
+      213: 2780974339848276523
+    second: wasmachineMooi_30
+  - first:
+      213: 6139068842091834432
+    second: wasmachineMooi_31
+  - first:
+      213: -9135544599011565900
+    second: wasmachineMooi_32
+  - first:
+      213: 727823873397548989
+    second: wasmachineMooi_33
+  - first:
+      213: 3798198094805746920
+    second: wasmachineMooi_34
+  - first:
+      213: -4503329958369435611
+    second: wasmachineMooi_35
+  - first:
+      213: -5841752911508239777
+    second: wasmachineMooi_36
+  - first:
+      213: 2743179538677773443
+    second: wasmachineMooi_37
+  - first:
+      213: 2461240281078895777
+    second: wasmachineMooi_38
+  - first:
+      213: -4290240469311901944
+    second: wasmachineMooi_39
+  - first:
+      213: -558173475053328198
+    second: wasmachineMooi_40
+  - first:
+      213: -7845912084991130603
+    second: wasmachineMooi_41
+  - first:
+      213: 7324449644985474094
+    second: wasmachineMooi_42
+  - first:
+      213: -3916696050380139135
+    second: wasmachineMooi_43
+  - first:
+      213: -523058291878781214
+    second: wasmachineMooi_44
+  - first:
+      213: 3662948274993027943
+    second: wasmachineMooi_45
+  - first:
+      213: -5428279861583352519
+    second: wasmachineMooi_46
+  - first:
+      213: -2354373245793429358
+    second: wasmachineMooi_47
+  - first:
+      213: 6711923074907945563
+    second: wasmachineMooi_48
+  - first:
+      213: -5302517971905380949
+    second: wasmachineMooi_49
+  - first:
+      213: -7131238160925235242
+    second: wasmachineMooi_50
+  - first:
+      213: 1226281000315558480
+    second: wasmachineMooi_51
+  - first:
+      213: -5719870735751620600
+    second: wasmachineMooi_52
+  - first:
+      213: 2009219912708905421
+    second: wasmachineMooi_53
+  - first:
+      213: -6121764530572636725
+    second: wasmachineMooi_54
+  - first:
+      213: 8870184005567112068
+    second: wasmachineMooi_55
+  - first:
+      213: -155398420749595313
+    second: wasmachineMooi_56
+  - first:
+      213: -4600097450344543283
+    second: wasmachineMooi_57
+  - first:
+      213: 9190582816635214413
+    second: wasmachineMooi_58
+  - first:
+      213: -1320353325838074173
+    second: wasmachineMooi_59
+  - first:
+      213: 6034790301458513120
+    second: wasmachineMooi_60
+  - first:
+      213: -33214348829715416
+    second: wasmachineMooi_61
+  - first:
+      213: 2902804219859896988
+    second: wasmachineMooi_62
+  - first:
+      213: 2506225843435723663
+    second: wasmachineMooi_63
+  - first:
+      213: 2128774366918560696
+    second: wasmachineMooi_64
+  - first:
+      213: 6488368261675220450
+    second: wasmachineMooi_65
+  - first:
+      213: 1558058362321669687
+    second: wasmachineMooi_66
+  - first:
+      213: 2598837053756498002
+    second: wasmachineMooi_67
+  - first:
+      213: -504811912488553159
+    second: wasmachineMooi_68
+  - first:
+      213: 1998751144584932595
+    second: wasmachineMooi_69
+  - first:
+      213: -36877098116171071
+    second: wasmachineMooi_70
+  - first:
+      213: -648065723701514250
+    second: wasmachineMooi_71
+  - first:
+      213: 2755584281580959435
+    second: wasmachineMooi_72
+  - first:
+      213: -8947775999267211861
+    second: wasmachineMooi_73
+  - first:
+      213: -6430452253043941246
+    second: wasmachineMooi_74
+  - first:
+      213: 6473825440585557275
+    second: wasmachineMooi_75
+  - first:
+      213: -8143420624500192349
+    second: wasmachineMooi_76
+  - first:
+      213: 5950999579466030126
+    second: wasmachineMooi_77
+  - first:
+      213: 6712784617723152479
+    second: wasmachineMooi_78
+  - first:
+      213: -6111045719256080667
+    second: wasmachineMooi_79
+  - first:
+      213: -3500255163943541562
+    second: wasmachineMooi_80
+  - first:
+      213: -1838938774387513750
+    second: wasmachineMooi_81
+  - first:
+      213: 1310497328843815311
+    second: wasmachineMooi_82
+  - first:
+      213: -5113943647762256213
+    second: wasmachineMooi_83
+  - first:
+      213: -8244712369509270374
+    second: wasmachineMooi_84
+  - first:
+      213: 5971426385153390601
+    second: wasmachineMooi_85
+  - first:
+      213: 786949191224563953
+    second: wasmachineMooi_86
+  - first:
+      213: 702651176643012376
+    second: wasmachineMooi_87
+  - first:
+      213: 2062731979566140155
+    second: wasmachineMooi_88
+  - first:
+      213: -2881688984727675867
+    second: wasmachineMooi_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wasmachineMooi_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 3532
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0116610fe085d7820800000000000000
+      internalID: 2917584954786734352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_1
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 3532
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39768ac10c4680b30800000000000000
+      internalID: 4253760624328730515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_2
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 3532
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbac888c91b0fca0800000000000000
+      internalID: -5985088618911454280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_3
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 3532
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8772d46b356084710800000000000000
+      internalID: 1677597817806071672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_4
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 3532
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7b12d445206f270800000000000000
+      internalID: 8283811125689169863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_5
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 3532
+        width: 423
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b213584df444430800000000000000
+      internalID: 3766222962574830469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_6
+      rect:
+        serializedVersion: 2
+        x: 3700
+        y: 3532
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a33d228694c4630800000000000000
+      internalID: 3912582887887813227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_7
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 3532
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6ada27a85fcf170800000000000000
+      internalID: 8213709795395217102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_8
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 3532
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab7619f8fbaecb30800000000000000
+      internalID: 4309570979259382689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_9
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 3532
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45e0c482252931a0800000000000000
+      internalID: -6829386529744296630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_10
+      rect:
+        serializedVersion: 2
+        x: 6100
+        y: 3532
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574783a77978bb260800000000000000
+      internalID: 7114429121022162037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_11
+      rect:
+        serializedVersion: 2
+        x: 6700
+        y: 3540
+        width: 416
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1a388a9a7d49b60800000000000000
+      internalID: 7752057982288110023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_12
+      rect:
+        serializedVersion: 2
+        x: 7300
+        y: 3532
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39900ad7a72990b20800000000000000
+      internalID: 3101170873212602771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_13
+      rect:
+        serializedVersion: 2
+        x: 7900
+        y: 3532
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f32aa796ed257970800000000000000
+      internalID: 8751951919274664948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_14
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 3540
+        width: 416
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59347f1608aeb8ac0800000000000000
+      internalID: -3851727219165019243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_15
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 3532
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d313895e797a4a0800000000000000
+      internalID: -6582125318022021782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_16
+      rect:
+        serializedVersion: 2
+        x: 9700
+        y: 3532
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6654d8a8f0cc86490800000000000000
+      internalID: -7752722391397218970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_17
+      rect:
+        serializedVersion: 2
+        x: 10300
+        y: 3532
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04d068e0e68ddd80800000000000000
+      internalID: -8224269043979201522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_18
+      rect:
+        serializedVersion: 2
+        x: 10900
+        y: 3532
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa562794eae47770800000000000000
+      internalID: 8607763055321176744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_19
+      rect:
+        serializedVersion: 2
+        x: 11500
+        y: 3532
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be5e10f7d7873410800000000000000
+      internalID: 1456782365993885364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_20
+      rect:
+        serializedVersion: 2
+        x: 12100
+        y: 3532
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48376e403e9318440800000000000000
+      internalID: 4936290313777345412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_21
+      rect:
+        serializedVersion: 2
+        x: 12700
+        y: 3540
+        width: 416
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438025c1b5c57c7f0800000000000000
+      internalID: -592403279589013452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_22
+      rect:
+        serializedVersion: 2
+        x: 13300
+        y: 3532
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72514feb7cbd51f0800000000000000
+      internalID: -1054479497253793154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_23
+      rect:
+        serializedVersion: 2
+        x: 13900
+        y: 3532
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47c921f6fe370730800000000000000
+      internalID: 3965207227251935055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_24
+      rect:
+        serializedVersion: 2
+        x: 14500
+        y: 3540
+        width: 416
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d7e3281122c4820800000000000000
+      internalID: 2903733318342049053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_25
+      rect:
+        serializedVersion: 2
+        x: 15100
+        y: 3532
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef19ba79da070f510800000000000000
+      internalID: 1580887360083300862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_26
+      rect:
+        serializedVersion: 2
+        x: 15700
+        y: 3540
+        width: 416
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f44fe1854830080800000000000000
+      internalID: -9222382097913327850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_27
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2932
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da100c8a2291fc560800000000000000
+      internalID: 7336109954660565421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_28
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2932
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60981b3893b3be750800000000000000
+      internalID: 6335222419035359494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_29
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2932
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efeb4b8e2c9a69d0800000000000000
+      internalID: -2780238096228421661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_30
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 2932
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a02288d61089620800000000000000
+      internalID: 2780974339848276523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_31
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c6d80f59a523550800000000000000
+      internalID: 6139068842091834432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_32
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be5d22e696083180800000000000000
+      internalID: -9135544599011565900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_33
+      rect:
+        serializedVersion: 2
+        x: 3700
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7e8e8e4ffb91a00800000000000000
+      internalID: 727823873397548989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_34
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e446732b09e5b430800000000000000
+      internalID: 3798198094805746920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_35
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 2932
+        width: 432
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520e3053345f081c0800000000000000
+      internalID: -4503329958369435611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_36
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 2932
+        width: 431
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a82fb8dacedeea0800000000000000
+      internalID: -5841752911508239777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_37
+      rect:
+        serializedVersion: 2
+        x: 6100
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3843206a14bb11620800000000000000
+      internalID: 2743179538677773443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_38
+      rect:
+        serializedVersion: 2
+        x: 6700
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a41794def4182220800000000000000
+      internalID: 2461240281078895777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_39
+      rect:
+        serializedVersion: 2
+        x: 7300
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fa8a916010674c0800000000000000
+      internalID: -4290240469311901944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_40
+      rect:
+        serializedVersion: 2
+        x: 7900
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8a6688e28f048f0800000000000000
+      internalID: -558173475053328198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_41
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514c8233788bd1390800000000000000
+      internalID: -7845912084991130603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_42
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c5890452ca5a560800000000000000
+      internalID: 7324449644985474094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_43
+      rect:
+        serializedVersion: 2
+        x: 9700
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1859ae791b915a9c0800000000000000
+      internalID: -3916696050380139135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_44
+      rect:
+        serializedVersion: 2
+        x: 10300
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee1ebb3149bdb8f0800000000000000
+      internalID: -523058291878781214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_45
+      rect:
+        serializedVersion: 2
+        x: 10900
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bd6998c0865d230800000000000000
+      internalID: 3662948274993027943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_46
+      rect:
+        serializedVersion: 2
+        x: 11500
+        y: 2932
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93deae4e930eaa4b0800000000000000
+      internalID: -5428279861583352519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_47
+      rect:
+        serializedVersion: 2
+        x: 12092
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2989cc7c106935fd0800000000000000
+      internalID: -2354373245793429358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_48
+      rect:
+        serializedVersion: 2
+        x: 12692
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ab2afa97a852d50800000000000000
+      internalID: 6711923074907945563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_49
+      rect:
+        serializedVersion: 2
+        x: 13292
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad747d9ffba966b0800000000000000
+      internalID: -5302517971905380949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_50
+      rect:
+        serializedVersion: 2
+        x: 13892
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d76751fca0c80d90800000000000000
+      internalID: -7131238160925235242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_51
+      rect:
+        serializedVersion: 2
+        x: 14500
+        y: 2932
+        width: 423
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a9e9a9210a40110800000000000000
+      internalID: 1226281000315558480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_52
+      rect:
+        serializedVersion: 2
+        x: 15100
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8085f5afedfee90b0800000000000000
+      internalID: -5719870735751620600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_53
+      rect:
+        serializedVersion: 2
+        x: 15700
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9d7a48dde22eb10800000000000000
+      internalID: 2009219912708905421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_54
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2340
+        width: 424
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdc1ac089f1b0ba0800000000000000
+      internalID: -6121764530572636725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_55
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2340
+        width: 424
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483ed285b59391b70800000000000000
+      internalID: 8870184005567112068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_56
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2340
+        width: 424
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d409ca5f9e7ddf0800000000000000
+      internalID: -155398420749595313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_57
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 2332
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb8804cdbb2920c0800000000000000
+      internalID: -4600097450344543283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_58
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 2332
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ad950c0628b8f70800000000000000
+      internalID: 9190582816635214413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_59
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 2332
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce7a6b45a92dade0800000000000000
+      internalID: -1320353325838074173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_60
+      rect:
+        serializedVersion: 2
+        x: 3692
+        y: 2332
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec38643ec1efb350800000000000000
+      internalID: 6034790301458513120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_61
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 2332
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8241f88c9bff98ff0800000000000000
+      internalID: -33214348829715416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_62
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 2340
+        width: 424
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a0149ee05d84820800000000000000
+      internalID: 2902804219859896988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_63
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 2340
+        width: 428
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bd3e44027e7c220800000000000000
+      internalID: 2506225843435723663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_64
+      rect:
+        serializedVersion: 2
+        x: 6100
+        y: 2340
+        width: 424
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb432b020dea8d10800000000000000
+      internalID: 2128774366918560696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_65
+      rect:
+        serializedVersion: 2
+        x: 6700
+        y: 2340
+        width: 424
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edf111ae805b0a50800000000000000
+      internalID: 6488368261675220450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_66
+      rect:
+        serializedVersion: 2
+        x: 7300
+        y: 2340
+        width: 424
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e828953d55f9510800000000000000
+      internalID: 1558058362321669687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_67
+      rect:
+        serializedVersion: 2
+        x: 7900
+        y: 2340
+        width: 424
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250674af78ce01420800000000000000
+      internalID: 2598837053756498002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_68
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 2332
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935fbbd7d3c8ef8f0800000000000000
+      internalID: -504811912488553159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_69
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 2332
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fce36f739dfcbb10800000000000000
+      internalID: 1998751144584932595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_70
+      rect:
+        serializedVersion: 2
+        x: 9700
+        y: 2332
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca3072897cfc7ff0800000000000000
+      internalID: -36877098116171071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_71
+      rect:
+        serializedVersion: 2
+        x: 10300
+        y: 2340
+        width: 424
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff2aab68ab9107f0800000000000000
+      internalID: -648065723701514250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_72
+      rect:
+        serializedVersion: 2
+        x: 10900
+        y: 2340
+        width: 424
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6784ced4dcd3620800000000000000
+      internalID: 2755584281580959435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_73
+      rect:
+        serializedVersion: 2
+        x: 11500
+        y: 2340
+        width: 424
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba579e1d22d13d380800000000000000
+      internalID: -8947775999267211861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_74
+      rect:
+        serializedVersion: 2
+        x: 12100
+        y: 2340
+        width: 424
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280a430feb172c6a0800000000000000
+      internalID: -6430452253043941246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_75
+      rect:
+        serializedVersion: 2
+        x: 12693
+        y: 2332
+        width: 423
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b152dfb30f5a7d950800000000000000
+      internalID: 6473825440585557275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_76
+      rect:
+        serializedVersion: 2
+        x: 13292
+        y: 2332
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab83147612ccfe80800000000000000
+      internalID: -8143420624500192349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_77
+      rect:
+        serializedVersion: 2
+        x: 13900
+        y: 2332
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c52987692369250800000000000000
+      internalID: 5950999579466030126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_78
+      rect:
+        serializedVersion: 2
+        x: 14500
+        y: 2332
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5848114b0a982d50800000000000000
+      internalID: 6712784617723152479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_79
+      rect:
+        serializedVersion: 2
+        x: 15100
+        y: 2340
+        width: 424
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eed199cb44313ba0800000000000000
+      internalID: -6111045719256080667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_80
+      rect:
+        serializedVersion: 2
+        x: 15700
+        y: 2340
+        width: 424
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c42be939789c6fc0800000000000000
+      internalID: -3500255163943541562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_81
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1732
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66a0f48de6ca76e0800000000000000
+      internalID: -1838938774387513750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_82
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1732
+        width: 423
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8975d49062df2210800000000000000
+      internalID: 1310497328843815311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_83
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1732
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baee3c1e85f9709b0800000000000000
+      internalID: -5113943647762256213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_84
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1732
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c712448c5e49d80800000000000000
+      internalID: -8244712369509270374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_85
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1732
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9087679c8a4ced250800000000000000
+      internalID: 5971426385153390601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_86
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 1740
+        width: 424
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f89837be1ecbea00800000000000000
+      internalID: 786949191224563953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_87
+      rect:
+        serializedVersion: 2
+        x: 3700
+        y: 1740
+        width: 424
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81721d8b58150c900800000000000000
+      internalID: 702651176643012376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_88
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 1740
+        width: 424
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfac0ec7ecb40ac10800000000000000
+      internalID: 2062731979566140155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineMooi_89
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 1740
+        width: 424
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c9620e22f2208d0800000000000000
+      internalID: -2881688984727675867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

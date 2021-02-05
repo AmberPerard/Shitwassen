@@ -1,0 +1,2266 @@
+fileFormatVersion: 2
+guid: ce321d63edada4cb997d0060bc77c779
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5743531853794651454
+    second: wasmachineVuil_0
+  - first:
+      213: 5811239356921284064
+    second: wasmachineVuil_1
+  - first:
+      213: 2171149434240199030
+    second: wasmachineVuil_2
+  - first:
+      213: -7242883400061030086
+    second: wasmachineVuil_3
+  - first:
+      213: -6528868326391453113
+    second: wasmachineVuil_4
+  - first:
+      213: 1103719535912801626
+    second: wasmachineVuil_5
+  - first:
+      213: -5226322727004428855
+    second: wasmachineVuil_6
+  - first:
+      213: 2222219290661054757
+    second: wasmachineVuil_7
+  - first:
+      213: 266640498125889990
+    second: wasmachineVuil_8
+  - first:
+      213: 2432687906819783430
+    second: wasmachineVuil_9
+  - first:
+      213: 3116842551463925414
+    second: wasmachineVuil_10
+  - first:
+      213: 9122177435381027840
+    second: wasmachineVuil_11
+  - first:
+      213: -8800096919451598438
+    second: wasmachineVuil_12
+  - first:
+      213: -2551773781483369456
+    second: wasmachineVuil_13
+  - first:
+      213: -7428589548512123806
+    second: wasmachineVuil_14
+  - first:
+      213: -1131981445679156632
+    second: wasmachineVuil_15
+  - first:
+      213: -4791645701393023989
+    second: wasmachineVuil_16
+  - first:
+      213: 1408608798943103852
+    second: wasmachineVuil_17
+  - first:
+      213: -3788804961246014705
+    second: wasmachineVuil_18
+  - first:
+      213: 7471273486270693029
+    second: wasmachineVuil_19
+  - first:
+      213: 4716340240143859423
+    second: wasmachineVuil_20
+  - first:
+      213: 8651014600225694104
+    second: wasmachineVuil_21
+  - first:
+      213: -2943602333766509275
+    second: wasmachineVuil_22
+  - first:
+      213: 2037616005917111433
+    second: wasmachineVuil_23
+  - first:
+      213: -4934966860789586002
+    second: wasmachineVuil_24
+  - first:
+      213: -6934264076681751530
+    second: wasmachineVuil_25
+  - first:
+      213: -624093026448611943
+    second: wasmachineVuil_26
+  - first:
+      213: -8657493662025819565
+    second: wasmachineVuil_27
+  - first:
+      213: -3568558216158097752
+    second: wasmachineVuil_28
+  - first:
+      213: -6104774689339435169
+    second: wasmachineVuil_29
+  - first:
+      213: -6982674634752832453
+    second: wasmachineVuil_30
+  - first:
+      213: 8868995901328136809
+    second: wasmachineVuil_31
+  - first:
+      213: -6753226671896191051
+    second: wasmachineVuil_32
+  - first:
+      213: -2259054289065281223
+    second: wasmachineVuil_33
+  - first:
+      213: -7091721009188374391
+    second: wasmachineVuil_34
+  - first:
+      213: 8350308498405462327
+    second: wasmachineVuil_35
+  - first:
+      213: -6998561035282039334
+    second: wasmachineVuil_36
+  - first:
+      213: -1805543853771780076
+    second: wasmachineVuil_37
+  - first:
+      213: -3342683192652318506
+    second: wasmachineVuil_38
+  - first:
+      213: 4181354092807775076
+    second: wasmachineVuil_39
+  - first:
+      213: -5316178914493043184
+    second: wasmachineVuil_40
+  - first:
+      213: -1673654032100573889
+    second: wasmachineVuil_41
+  - first:
+      213: 366510517588268084
+    second: wasmachineVuil_42
+  - first:
+      213: 8453442244215296082
+    second: wasmachineVuil_43
+  - first:
+      213: -2080623717284109727
+    second: wasmachineVuil_44
+  - first:
+      213: 6387258671825619098
+    second: wasmachineVuil_45
+  - first:
+      213: 2376927145846843648
+    second: wasmachineVuil_46
+  - first:
+      213: -1465895443220466539
+    second: wasmachineVuil_47
+  - first:
+      213: 5073890496845009634
+    second: wasmachineVuil_48
+  - first:
+      213: -6916380676262150135
+    second: wasmachineVuil_49
+  - first:
+      213: -4830447297679497755
+    second: wasmachineVuil_50
+  - first:
+      213: -8648780492018907195
+    second: wasmachineVuil_51
+  - first:
+      213: -3431852710733892103
+    second: wasmachineVuil_52
+  - first:
+      213: 3647767414285512189
+    second: wasmachineVuil_53
+  - first:
+      213: 7663888269243394002
+    second: wasmachineVuil_54
+  - first:
+      213: -5342230862612499331
+    second: wasmachineVuil_55
+  - first:
+      213: 2875562281378800110
+    second: wasmachineVuil_56
+  - first:
+      213: -1582420539114426213
+    second: wasmachineVuil_57
+  - first:
+      213: 8331434722692143476
+    second: wasmachineVuil_58
+  - first:
+      213: 7139059015079098633
+    second: wasmachineVuil_59
+  - first:
+      213: 5200898327661122385
+    second: wasmachineVuil_60
+  - first:
+      213: -145380184491005533
+    second: wasmachineVuil_61
+  - first:
+      213: 4728987484997801185
+    second: wasmachineVuil_62
+  - first:
+      213: -7777434382496979548
+    second: wasmachineVuil_63
+  - first:
+      213: -8665203261198143582
+    second: wasmachineVuil_64
+  - first:
+      213: 7538742426465134103
+    second: wasmachineVuil_65
+  - first:
+      213: -64813465323376370
+    second: wasmachineVuil_66
+  - first:
+      213: 7158342708264131922
+    second: wasmachineVuil_67
+  - first:
+      213: 246320605829836412
+    second: wasmachineVuil_68
+  - first:
+      213: 6877050587566582313
+    second: wasmachineVuil_69
+  - first:
+      213: -360349237439187878
+    second: wasmachineVuil_70
+  - first:
+      213: -8877256277552916460
+    second: wasmachineVuil_71
+  - first:
+      213: 6274991283415054196
+    second: wasmachineVuil_72
+  - first:
+      213: 1488282330447929482
+    second: wasmachineVuil_73
+  - first:
+      213: 9185822875643784092
+    second: wasmachineVuil_74
+  - first:
+      213: 6998459835806687144
+    second: wasmachineVuil_75
+  - first:
+      213: -5019695002989524497
+    second: wasmachineVuil_76
+  - first:
+      213: -5564344801722518198
+    second: wasmachineVuil_77
+  - first:
+      213: -4134004279629490759
+    second: wasmachineVuil_78
+  - first:
+      213: 2268182728926219225
+    second: wasmachineVuil_79
+  - first:
+      213: 8956254732532125852
+    second: wasmachineVuil_80
+  - first:
+      213: 1718409458647673321
+    second: wasmachineVuil_81
+  - first:
+      213: 6240601934625599629
+    second: wasmachineVuil_82
+  - first:
+      213: -258756280059718548
+    second: wasmachineVuil_83
+  - first:
+      213: 3634644775251944392
+    second: wasmachineVuil_84
+  - first:
+      213: 5715059954492092365
+    second: wasmachineVuil_85
+  - first:
+      213: 5699994937486095066
+    second: wasmachineVuil_86
+  - first:
+      213: 6101558303969331136
+    second: wasmachineVuil_87
+  - first:
+      213: -8699541430248383281
+    second: wasmachineVuil_88
+  - first:
+      213: 1635139432698212582
+    second: wasmachineVuil_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wasmachineVuil_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 3532
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d229d5acf15bf40800000000000000
+      internalID: 5743531853794651454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_1
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 3532
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e50016e76ba5a050800000000000000
+      internalID: 5811239356921284064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_2
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 3532
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6796d2e38e8712e10800000000000000
+      internalID: 2171149434240199030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_3
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 3540
+        width: 416
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31f9cd0ceb1c7b90800000000000000
+      internalID: -7242883400061030086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_4
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3532
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a632c39dcc465a0800000000000000
+      internalID: -6528868326391453113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_5
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 3532
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55ddb5f113315f00800000000000000
+      internalID: 1103719535912801626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_6
+      rect:
+        serializedVersion: 2
+        x: 3700
+        y: 3532
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5a9578b2f5877b0800000000000000
+      internalID: -5226322727004428855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_7
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 3532
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5296fd8cba8e6de10800000000000000
+      internalID: 2222219290661054757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_8
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 3532
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1e68dce1c43b300800000000000000
+      internalID: 266640498125889990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_9
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 3532
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bb16723c4a2c120800000000000000
+      internalID: 2432687906819783430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_10
+      rect:
+        serializedVersion: 2
+        x: 6100
+        y: 3532
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a654dc69cf314b20800000000000000
+      internalID: 3116842551463925414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_11
+      rect:
+        serializedVersion: 2
+        x: 6700
+        y: 3532
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00458fdcb0c789e70800000000000000
+      internalID: 9122177435381027840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_12
+      rect:
+        serializedVersion: 2
+        x: 7292
+        y: 3532
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9104170a76cfd580800000000000000
+      internalID: -8800096919451598438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_13
+      rect:
+        serializedVersion: 2
+        x: 7892
+        y: 3532
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c478ff347469cd0800000000000000
+      internalID: -2551773781483369456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_14
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 3532
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26461caf92958e890800000000000000
+      internalID: -7428589548512123806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_15
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 3540
+        width: 424
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862f5f56fd46a40f0800000000000000
+      internalID: -1131981445679156632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_16
+      rect:
+        serializedVersion: 2
+        x: 9700
+        y: 3532
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cf0fe2f97a08db0800000000000000
+      internalID: -4791645701393023989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_17
+      rect:
+        serializedVersion: 2
+        x: 10300
+        y: 3532
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b4e705d326c8310800000000000000
+      internalID: 1408608798943103852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_18
+      rect:
+        serializedVersion: 2
+        x: 10900
+        y: 3532
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0391b136f57b6bc0800000000000000
+      internalID: -3788804961246014705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_19
+      rect:
+        serializedVersion: 2
+        x: 11500
+        y: 3540
+        width: 416
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae75f8b6ab4fa760800000000000000
+      internalID: 7471273486270693029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_20
+      rect:
+        serializedVersion: 2
+        x: 12100
+        y: 3532
+        width: 420
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdeb7adc57ec37140800000000000000
+      internalID: 4716340240143859423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_21
+      rect:
+        serializedVersion: 2
+        x: 12700
+        y: 3532
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891ab21a1f39e0870800000000000000
+      internalID: 8651014600225694104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_22
+      rect:
+        serializedVersion: 2
+        x: 13300
+        y: 3532
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d16d7f5493627d0800000000000000
+      internalID: -2943602333766509275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_23
+      rect:
+        serializedVersion: 2
+        x: 13900
+        y: 3532
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984f65d26f0174c10800000000000000
+      internalID: 2037616005917111433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_24
+      rect:
+        serializedVersion: 2
+        x: 14500
+        y: 3540
+        width: 416
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7ef4469c9738bb0800000000000000
+      internalID: -4934966860789586002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_25
+      rect:
+        serializedVersion: 2
+        x: 15100
+        y: 3532
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614d1a2cf8b84cf90800000000000000
+      internalID: -6934264076681751530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_26
+      rect:
+        serializedVersion: 2
+        x: 15700
+        y: 3532
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9956bb3f2b6c657f0800000000000000
+      internalID: -624093026448611943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_27
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2932
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a51cd32676ad780800000000000000
+      internalID: -8657493662025819565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_28
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae489d953fe97ec0800000000000000
+      internalID: -3568558216158097752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_29
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f579028b3cb774ba0800000000000000
+      internalID: -6104774689339435169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_30
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c4d6d5a6e881f90800000000000000
+      internalID: -6982674634752832453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_31
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 2932
+        width: 431
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a1f0548c0051b70800000000000000
+      internalID: 8868995901328136809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_32
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf1fed3f18b742a0800000000000000
+      internalID: -6753226671896191051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_33
+      rect:
+        serializedVersion: 2
+        x: 3692
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939f0f3d71a36a0e0800000000000000
+      internalID: -2259054289065281223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_34
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 2932
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988f621d055259d90800000000000000
+      internalID: -7091721009188374391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_35
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 2932
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7311264665142e370800000000000000
+      internalID: 8350308498405462327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_36
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addbf1181dd10ee90800000000000000
+      internalID: -6998561035282039334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_37
+      rect:
+        serializedVersion: 2
+        x: 6100
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4101b816e6b61f6e0800000000000000
+      internalID: -1805543853771780076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_38
+      rect:
+        serializedVersion: 2
+        x: 6700
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d83a49b8576c91d0800000000000000
+      internalID: -3342683192652318506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_39
+      rect:
+        serializedVersion: 2
+        x: 7300
+        y: 2932
+        width: 423
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463eee5c467270a30800000000000000
+      internalID: 4181354092807775076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_40
+      rect:
+        serializedVersion: 2
+        x: 7900
+        y: 2932
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e683f81732936b0800000000000000
+      internalID: -5316178914493043184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_41
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 2932
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dbeb3768cf5c8e0800000000000000
+      internalID: -1673654032100573889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_42
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 2932
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4341b47bf5b161500800000000000000
+      internalID: 366510517588268084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_43
+      rect:
+        serializedVersion: 2
+        x: 9700
+        y: 2932
+        width: 420
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250dbbfcee8a05570800000000000000
+      internalID: 8453442244215296082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_44
+      rect:
+        serializedVersion: 2
+        x: 10300
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1622704b0c32023e0800000000000000
+      internalID: -2080623717284109727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_45
+      rect:
+        serializedVersion: 2
+        x: 10900
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9803bebbe914a850800000000000000
+      internalID: 6387258671825619098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_46
+      rect:
+        serializedVersion: 2
+        x: 11500
+        y: 2932
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0092f2945aa8cf020800000000000000
+      internalID: 2376927145846843648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_47
+      rect:
+        serializedVersion: 2
+        x: 12100
+        y: 2932
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594fafc6cd718abe0800000000000000
+      internalID: -1465895443220466539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_48
+      rect:
+        serializedVersion: 2
+        x: 12692
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e25da536841a6640800000000000000
+      internalID: 5073890496845009634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_49
+      rect:
+        serializedVersion: 2
+        x: 13292
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900c4046b641400a0800000000000000
+      internalID: -6916380676262150135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_50
+      rect:
+        serializedVersion: 2
+        x: 13892
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5619b86cdc6fcb0800000000000000
+      internalID: -4830447297679497755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_51
+      rect:
+        serializedVersion: 2
+        x: 14492
+        y: 2932
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c782e837fb59f780800000000000000
+      internalID: -8648780492018907195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_52
+      rect:
+        serializedVersion: 2
+        x: 15100
+        y: 2932
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5be3f642c9f50d0800000000000000
+      internalID: -3431852710733892103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_53
+      rect:
+        serializedVersion: 2
+        x: 15700
+        y: 2932
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdabb7f2297f9230800000000000000
+      internalID: 3647767414285512189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_54
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2332
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7298e96c99b5a60800000000000000
+      internalID: 7663888269243394002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_55
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2332
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d747ad5b5559cd5b0800000000000000
+      internalID: -5342230862612499331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_56
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2340
+        width: 416
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee16817d8ac08e720800000000000000
+      internalID: 2875562281378800110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_57
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 2340
+        width: 416
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b907dc857ec1a0ae0800000000000000
+      internalID: -1582420539114426213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_58
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2340
+        width: 416
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4799b6b0db33f9370800000000000000
+      internalID: 8331434722692143476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_59
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 2332
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909f6509958031360800000000000000
+      internalID: 7139059015079098633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_60
+      rect:
+        serializedVersion: 2
+        x: 3700
+        y: 2332
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1531a25397d4d2840800000000000000
+      internalID: 5200898327661122385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_61
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 2332
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a968021e718bfdf0800000000000000
+      internalID: -145380184491005533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_62
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 2340
+        width: 416
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4df86ff0db0a140800000000000000
+      internalID: 4728987484997801185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_63
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 2340
+        width: 424
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5ab5fb2a0011490800000000000000
+      internalID: -7777434382496979548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_64
+      rect:
+        serializedVersion: 2
+        x: 6100
+        y: 2340
+        width: 424
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af6abd4b830fb780800000000000000
+      internalID: -8665203261198143582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_65
+      rect:
+        serializedVersion: 2
+        x: 6700
+        y: 2340
+        width: 416
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716ee9e7b4efe9860800000000000000
+      internalID: 7538742426465134103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_66
+      rect:
+        serializedVersion: 2
+        x: 7300
+        y: 2332
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01fcb62f7cb91ff0800000000000000
+      internalID: -64813465323376370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_67
+      rect:
+        serializedVersion: 2
+        x: 7900
+        y: 2332
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d579244ca875360800000000000000
+      internalID: 7158342708264131922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_68
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 2340
+        width: 416
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ea853394b1b6300800000000000000
+      internalID: 246320605829836412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_69
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 2340
+        width: 416
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a2c4eb211307f50800000000000000
+      internalID: 6877050587566582313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_70
+      rect:
+        serializedVersion: 2
+        x: 9700
+        y: 2340
+        width: 424
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54ba5b1748cffaf0800000000000000
+      internalID: -360349237439187878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_71
+      rect:
+        serializedVersion: 2
+        x: 10300
+        y: 2340
+        width: 424
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4181a540376adc480800000000000000
+      internalID: -8877256277552916460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_72
+      rect:
+        serializedVersion: 2
+        x: 10900
+        y: 2340
+        width: 424
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47770a0735f351750800000000000000
+      internalID: 6274991283415054196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_73
+      rect:
+        serializedVersion: 2
+        x: 11500
+        y: 2340
+        width: 416
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80e6dfe4e077a410800000000000000
+      internalID: 1488282330447929482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_74
+      rect:
+        serializedVersion: 2
+        x: 12100
+        y: 2340
+        width: 422
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ba760ac399a7f70800000000000000
+      internalID: 9185822875643784092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_75
+      rect:
+        serializedVersion: 2
+        x: 12700
+        y: 2340
+        width: 416
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af981824268f1160800000000000000
+      internalID: 6998459835806687144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_76
+      rect:
+        serializedVersion: 2
+        x: 13300
+        y: 2340
+        width: 416
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe981028df5765ab0800000000000000
+      internalID: -5019695002989524497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_77
+      rect:
+        serializedVersion: 2
+        x: 13900
+        y: 2340
+        width: 416
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45b98d42e977c2b0800000000000000
+      internalID: -5564344801722518198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_78
+      rect:
+        serializedVersion: 2
+        x: 14500
+        y: 2340
+        width: 420
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b55db4b20111a6c0800000000000000
+      internalID: -4134004279629490759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_79
+      rect:
+        serializedVersion: 2
+        x: 15100
+        y: 2340
+        width: 416
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbc253bc243a7f10800000000000000
+      internalID: 2268182728926219225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_80
+      rect:
+        serializedVersion: 2
+        x: 15700
+        y: 2340
+        width: 416
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c901d7a1a320b4c70800000000000000
+      internalID: 8956254732532125852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_81
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1732
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9ad515c4409d710800000000000000
+      internalID: 1718409458647673321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_82
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1732
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8079f935621b9650800000000000000
+      internalID: 6240601934625599629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_83
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1732
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6493a3c886b86cf0800000000000000
+      internalID: -258756280059718548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_84
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 1732
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c32f997a2ad07230800000000000000
+      internalID: 3634644775251944392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_85
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 1732
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfaf89bfb8ff4f40800000000000000
+      internalID: 5715059954492092365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_86
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 1732
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2326e12337a1f40800000000000000
+      internalID: 5699994937486095066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_87
+      rect:
+        serializedVersion: 2
+        x: 3700
+        y: 1732
+        width: 416
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c74d6433f61da450800000000000000
+      internalID: 6101558303969331136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_88
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 1740
+        width: 416
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc504d4925054780800000000000000
+      internalID: -8699541430248383281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasmachineVuil_89
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 1740
+        width: 423
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0f53496ae21b610800000000000000
+      internalID: 1635139432698212582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
