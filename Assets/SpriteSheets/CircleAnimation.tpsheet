@@ -1,0 +1,45 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:e7fbd7cc70704df3ec9d9f032ac7c74a:9224e4aec5f4d1722e5224b36b8533f3:f5bac247aafd36ff686ab93720a9f2e3$
+#
+:format=40300
+:texture=CircleAnimation.png
+:size=16384x8192
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+7result_circle_00000;0;7112;1920;1080; 0.5;0.5; 0;0;0;0
+7result_circle_00001;1920;7112;1920;1080; 0.5;0.5; 0;0;0;0
+7result_circle_00002;3840;7112;1920;1080; 0.5;0.5; 0;0;0;0
+7result_circle_00003;5760;7112;1920;1080; 0.5;0.5; 0;0;0;0
+7result_circle_00004;7680;7112;1920;1080; 0.5;0.5; 0;0;0;0
+7result_circle_00005;9600;7112;1920;1080; 0.5;0.5; 0;0;0;0
+7result_circle_00006;11520;7112;1920;1080; 0.5;0.5; 0;0;0;0
+7result_circle_00007;13440;7112;1920;1080; 0.5;0.5; 0;0;0;0
+7result_circle_00008;0;6032;1920;1080; 0.5;0.5; 0;0;0;0
+7result_circle_00009;1920;6032;1920;1080; 0.5;0.5; 0;0;0;0
+7result_circle_00010;3840;6032;1920;1080; 0.5;0.5; 0;0;0;0
+7result_circle_00011;5760;6032;1920;1080; 0.5;0.5; 0;0;0;0
+7result_circle_00012;7680;6032;1920;1080; 0.5;0.5; 0;0;0;0
+7result_circle_00013;9600;6032;1920;1080; 0.5;0.5; 0;0;0;0
+7result_circle_00014;11520;6032;1920;1080; 0.5;0.5; 0;0;0;0
+7result_circle_00015;13440;6032;1920;1080; 0.5;0.5; 0;0;0;0
+7result_circle_00016;0;4952;1920;1080; 0.5;0.5; 0;0;0;0
+7result_circle_00017;1920;4952;1920;1080; 0.5;0.5; 0;0;0;0
+7result_circle_00018;3840;4952;1920;1080; 0.5;0.5; 0;0;0;0
+7result_circle_00019;5760;4952;1920;1080; 0.5;0.5; 0;0;0;0
+7result_circle_00020;7680;4952;1920;1080; 0.5;0.5; 0;0;0;0
+7result_circle_00021;9600;4952;1920;1080; 0.5;0.5; 0;0;0;0
+7result_circle_00022;11520;4952;1920;1080; 0.5;0.5; 0;0;0;0
+7result_circle_00023;13440;4952;1920;1080; 0.5;0.5; 0;0;0;0
+7result_circle_00024;0;3872;1920;1080; 0.5;0.5; 0;0;0;0
+7result_circle_00025;1920;3872;1920;1080; 0.5;0.5; 0;0;0;0
+7result_circle_00026;3840;3872;1920;1080; 0.5;0.5; 0;0;0;0
+7result_circle_00027;5760;3872;1920;1080; 0.5;0.5; 0;0;0;0
+7result_circle_00028;7680;3872;1920;1080; 0.5;0.5; 0;0;0;0
+7result_circle_00029;9600;3872;1920;1080; 0.5;0.5; 0;0;0;0

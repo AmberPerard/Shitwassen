@@ -26,8 +26,8 @@ public class GameController : MonoBehaviour
     public RectTransform PositionP1;
     public RectTransform PositionP2;
 
-    public RectTransform WonImage;
-    public RectTransform LosImage;
+    public GameObject WonImage;
+    public GameObject LosImage;
 
     // Start is called before the first frame update
     void Start()
@@ -56,9 +56,6 @@ public class GameController : MonoBehaviour
         if (gameIsActive == true)
          {
             MoveTshirt.transform.Translate(Vector3.right * speed * Time.deltaTime);
-            //MoveTshirt.transform.position = Vector3.MoveTowards(MoveTshirt.transform.position, Vector3.right, speed * Time.deltaTime);
-            //Vector3 destination = Vector3.up * speed * Time.deltaTime;
-            //MoveTshirt.transform.transform.position = Vector3.Lerp(MoveTshirt.transform.position, destination, speed * Time.deltaTime);
         }
 
      if (MoveTshirt.transform.position.x >= 4.2)
@@ -66,8 +63,8 @@ public class GameController : MonoBehaviour
             gameIsActive = false;
             WinnerName = "SPELER 2";
             winnerText.text =  WinnerName;
-            WonImage.position = PositionP2.position;
-            LosImage.position = PositionP1.position;
+            WonImage.transform.position = PositionP2.position;
+            LosImage.transform.position = PositionP1.position;
             endScreen.SetActive(true);
             MoveTshirt.transform.position = new Vector3(4.2f, MoveTshirt.transform.position.y, MoveTshirt.transform.position.z );
         }
@@ -77,8 +74,8 @@ public class GameController : MonoBehaviour
             gameIsActive = false;
             WinnerName = "SPELER 1";
             winnerText.text = WinnerName;
-            WonImage.position = PositionP1.position;
-            LosImage.position = PositionP2.position;
+            WonImage.transform.position = PositionP1.position;
+            LosImage.transform.position = PositionP2.position;
             endScreen.SetActive(true);
             MoveTshirt.transform.position = new Vector3(-4.2f, MoveTshirt.transform.position.y, MoveTshirt.transform.position.z );
         }

@@ -2,14 +2,29 @@ version: 2
 importPivots: 1
 tpsheetFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
-- Assets/SpriteSheets/KakjeEnd 1.tpsheet
-- Assets/SpriteSheets/tryoutMachineSpritsheet.tpsheet
+- Assets/SpriteSheets/CircleAnimation.tpsheet
+- Assets/SpriteSheets/KakjeScore.tpsheet
+- Assets/SpriteSheets/ShirtScore.tpsheet
+- Assets/SpriteSheets/uitleg.tpsheet
+- Assets/SpriteSheets/wasmachine.tpsheet
+- Assets/SpriteSheets/wasmachineMooi.tpsheet
+- Assets/SpriteSheets/wasmachineVuil.tpsheet
 textureFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.png
-- Assets/SpriteSheets/KakjeEnd.png
-- Assets/SpriteSheets/tryoutMachineSpritsheet.png
+- Assets/SpriteSheets/CircleAnimation.png
+- Assets/SpriteSheets/KakjeScore.png
+- Assets/SpriteSheets/ShirtScore.png
+- Assets/SpriteSheets/uitleg.png
+- Assets/SpriteSheets/wasmachine.png
+- Assets/SpriteSheets/wasmachineMooi.png
+- Assets/SpriteSheets/wasmachineVuil.png
 normalmapFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
 - 
 - 
 enableDebugOutput: 0

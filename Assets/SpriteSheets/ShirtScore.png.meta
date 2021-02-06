@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: 509ac2358789a41ad9ba6a061e884df5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4611162189267729714
+    second: 5result_tshirt_00000
+  - first:
+      213: -5901538985717790583
+    second: 5result_tshirt_00001
+  - first:
+      213: 8851222928157097706
+    second: 5result_tshirt_00002
+  - first:
+      213: 3017345777582720741
+    second: 5result_tshirt_00003
+  - first:
+      213: -3349665954885066826
+    second: 5result_tshirt_00004
+  - first:
+      213: -6895065997068871746
+    second: 5result_tshirt_00005
+  - first:
+      213: 2572303547707675230
+    second: 5result_tshirt_00006
+  - first:
+      213: 2194015017614376610
+    second: 5result_tshirt_00007
+  - first:
+      213: 4876633399056547517
+    second: 5result_tshirt_00008
+  - first:
+      213: -1998655572846008268
+    second: 5result_tshirt_00009
+  - first:
+      213: 2195978713275001676
+    second: 5result_tshirt_00010
+  - first:
+      213: -6545173005963732437
+    second: 5result_tshirt_00011
+  - first:
+      213: -320011174746477330
+    second: 5result_tshirt_00012
+  - first:
+      213: -1086725415469035268
+    second: 5result_tshirt_00013
+  - first:
+      213: 2593386824968992630
+    second: 5result_tshirt_00014
+  - first:
+      213: -104805244012049208
+    second: 5result_tshirt_00015
+  - first:
+      213: -3778157197163248515
+    second: 5result_tshirt_00016
+  - first:
+      213: 6699350148103511744
+    second: 5result_tshirt_00017
+  - first:
+      213: -8423946447422685364
+    second: 5result_tshirt_00018
+  - first:
+      213: -8813653424154507539
+    second: 5result_tshirt_00019
+  - first:
+      213: 6247933398756568476
+    second: 5result_tshirt_00020
+  - first:
+      213: -5839882604810799664
+    second: 5result_tshirt_00021
+  - first:
+      213: 8573976907741467531
+    second: 5result_tshirt_00022
+  - first:
+      213: -5218129335966454788
+    second: 5result_tshirt_00023
+  - first:
+      213: 5891496440040436859
+    second: 5result_tshirt_00024
+  - first:
+      213: 1826967548520438226
+    second: 5result_tshirt_00025
+  - first:
+      213: 6533211646110719138
+    second: 5result_tshirt_00026
+  - first:
+      213: 7298718698283504177
+    second: 5result_tshirt_00027
+  - first:
+      213: 4414909078312708939
+    second: 5result_tshirt_00028
+  - first:
+      213: -2092559387391446570
+    second: 5result_tshirt_00029
+  - first:
+      213: 5319509182094903895
+    second: 5result_tshirt_00030
+  - first:
+      213: -6109541837942183397
+    second: 5result_tshirt_00031
+  - first:
+      213: 3560890045999131871
+    second: 5result_tshirt_00032
+  - first:
+      213: 5353902977670194769
+    second: 5result_tshirt_00033
+  - first:
+      213: 5442679743970842556
+    second: 5result_tshirt_00034
+  - first:
+      213: -2814925687487057482
+    second: 5result_tshirt_00035
+  - first:
+      213: 2904991610996064849
+    second: 5result_tshirt_00036
+  - first:
+      213: -6161674955275472518
+    second: 5result_tshirt_00037
+  - first:
+      213: 2042519033127430027
+    second: 5result_tshirt_00038
+  - first:
+      213: -5583172663827133904
+    second: 5result_tshirt_00039
+  - first:
+      213: -288281617734186306
+    second: 5result_tshirt_00040
+  - first:
+      213: 869201990884002004
+    second: 5result_tshirt_00041
+  - first:
+      213: -4548244790643094694
+    second: 5result_tshirt_00042
+  - first:
+      213: 9217299990371360597
+    second: 5result_tshirt_00043
+  - first:
+      213: 6357736115686485422
+    second: 5result_tshirt_00044
+  - first:
+      213: -8688595907054935427
+    second: 5result_tshirt_00045
+  - first:
+      213: 2938978409767293396
+    second: 5result_tshirt_00046
+  - first:
+      213: -4942857580034027376
+    second: 5result_tshirt_00047
+  - first:
+      213: 3002399950777931371
+    second: 5result_tshirt_00048
+  - first:
+      213: 182926982329571073
+    second: 5result_tshirt_00049
+  - first:
+      213: -1614775757870069206
+    second: 5result_tshirt_00050
+  - first:
+      213: 5106386929781757147
+    second: 5result_tshirt_00051
+  - first:
+      213: 5025478388452230004
+    second: 5result_tshirt_00052
+  - first:
+      213: 2957828709258586566
+    second: 5result_tshirt_00053
+  - first:
+      213: 2617830701721634620
+    second: 5result_tshirt_00054
+  - first:
+      213: -5003050041938090115
+    second: 5result_tshirt_00055
+  - first:
+      213: -5808598861306043256
+    second: 5result_tshirt_00056
+  - first:
+      213: 2512814660843079381
+    second: 5result_tshirt_00057
+  - first:
+      213: 5106707906534343
+    second: 5result_tshirt_00058
+  - first:
+      213: 9115546924430597028
+    second: 5result_tshirt_00059
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 5result_tshirt_00000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23df30584932eff30800000000000000
+      internalID: 4611162189267729714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00001
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9880c286f85891ea0800000000000000
+      internalID: -5901538985717790583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00002
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeeb89c7b5cd5da70800000000000000
+      internalID: 8851222928157097706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00003
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6c7558ff3cfd920800000000000000
+      internalID: 3017345777582720741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00004
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf1bd2bf889381d0800000000000000
+      internalID: -3349665954885066826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00005
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7d5ddd10ecf40a0800000000000000
+      internalID: -6895065997068871746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00006
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52d79fa278a2b320800000000000000
+      internalID: 2572303547707675230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00007
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aef6ccb805b27e10800000000000000
+      internalID: 2194015017614376610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00008
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe329a2d384da340800000000000000
+      internalID: 4876633399056547517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00009
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438a82888595344e0800000000000000
+      internalID: -1998655572846008268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00010
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b6313410fa97e10800000000000000
+      internalID: 2195978713275001676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00011
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a5e0234dfda25a0800000000000000
+      internalID: -6545173005963732437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00012
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeca41538871f8bf0800000000000000
+      internalID: -320011174746477330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00013
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0549a0efc2be0f0800000000000000
+      internalID: -1086725415469035268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00014
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1400
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6777473b39f8df320800000000000000
+      internalID: 2593386824968992630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00015
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1400
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc40149f28ab8ef0800000000000000
+      internalID: -104805244012049208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00016
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1400
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74cf75fb0a419bc0800000000000000
+      internalID: -3778157197163248515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00017
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1400
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce9bab077fd8fc50800000000000000
+      internalID: 6699350148103511744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00018
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1400
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ff47a8651281b80800000000000000
+      internalID: -8423946447422685364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00019
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1400
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de68ddf48ec9fa580800000000000000
+      internalID: -8813653424154507539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00020
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1400
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d2f2db25e15b650800000000000000
+      internalID: 6247933398756568476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00021
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 1400
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5f44246b194fea0800000000000000
+      internalID: -5839882604810799664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00022
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 1400
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83155a1292ecf670800000000000000
+      internalID: 8573976907741467531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00023
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 1400
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbaca9040b7597b0800000000000000
+      internalID: -5218129335966454788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00024
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 1400
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74b6183cccc2c150800000000000000
+      internalID: 5891496440040436859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00025
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 1400
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d91ab14e41ba5910800000000000000
+      internalID: 1826967548520438226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00026
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1076
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acdfd0b061aaaa50800000000000000
+      internalID: 6533211646110719138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00027
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1076
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13290be5cf14a4560800000000000000
+      internalID: 7298718698283504177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00028
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1076
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4be9706a68e44d30800000000000000
+      internalID: 4414909078312708939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00029
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1076
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1bf13f25cb5f2e0800000000000000
+      internalID: -2092559387391446570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00030
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1076
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a023aca61b2d940800000000000000
+      internalID: 5319509182094903895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00031
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1076
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1aa111711c863ba0800000000000000
+      internalID: -6109541837942183397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00032
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1076
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdca00461a2da6130800000000000000
+      internalID: 3560890045999131871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00033
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1076
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15620f95462ec4a40800000000000000
+      internalID: 5353902977670194769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00034
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 1076
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7989df368488b40800000000000000
+      internalID: 5442679743970842556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00035
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 1076
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1363850006fe8d0800000000000000
+      internalID: -2814925687487057482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00036
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 1076
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15209e89a7a905820800000000000000
+      internalID: 2904991610996064849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00037
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 1076
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71726d26455d7aa0800000000000000
+      internalID: -6161674955275472518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00038
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 1076
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87e8882d3c785c10800000000000000
+      internalID: 2042519033127430027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00039
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 752
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a89ec0b069482b0800000000000000
+      internalID: -5583172663827133904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00040
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 752
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebacda36561dffbf0800000000000000
+      internalID: -288281617734186306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00041
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d804b00b96001c00800000000000000
+      internalID: 869201990884002004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00042
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b8236e57361e0c0800000000000000
+      internalID: -4548244790643094694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00043
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fdb42818d6aef70800000000000000
+      internalID: 9217299990371360597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00044
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead2a2fff473b3850800000000000000
+      internalID: 6357736115686485422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00045
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72e3138e08eb6780800000000000000
+      internalID: -8688595907054935427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00046
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1d8b4da4959c820800000000000000
+      internalID: 2938978409767293396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00047
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09099b62831776bb0800000000000000
+      internalID: -4942857580034027376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00048
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66d4cb09daaaa920800000000000000
+      internalID: 3002399950777931371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00049
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10796990f13e98200800000000000000
+      internalID: 182926982329571073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00050
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a0e30f00a2799e0800000000000000
+      internalID: -1614775757870069206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00051
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4d65b9bd78dd640800000000000000
+      internalID: 5106386929781757147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00052
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473091ad7f51eb540800000000000000
+      internalID: 5025478388452230004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00053
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c96fc13a815c0920800000000000000
+      internalID: 2957828709258586566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00054
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37ca324727645420800000000000000
+      internalID: 2617830701721634620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00055
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77e6c08e78919ab0800000000000000
+      internalID: -5003050041938090115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00056
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8846d156c16b36fa0800000000000000
+      internalID: -5808598861306043256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00057
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d602fdde9f4fd220800000000000000
+      internalID: 2512814660843079381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00058
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb9db61684221000800000000000000
+      internalID: 5106707906534343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5result_tshirt_00059
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 1724
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab171ca1ade08e70800000000000000
+      internalID: 9115546924430597028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

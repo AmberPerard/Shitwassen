@@ -1,0 +1,1690 @@
+fileFormatVersion: 2
+guid: 09e59e310c73040a580a7022ade1f9e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3812584134931760691
+    second: _akjeScore_0
+  - first:
+      213: 3559473247379193050
+    second: _akjeScore_1
+  - first:
+      213: 443371034362349658
+    second: _akjeScore_2
+  - first:
+      213: 1134627388510742021
+    second: _akjeScore_3
+  - first:
+      213: 1698183318007202725
+    second: _akjeScore_4
+  - first:
+      213: -853150102750304396
+    second: _akjeScore_5
+  - first:
+      213: -1539442822568888301
+    second: _akjeScore_6
+  - first:
+      213: 7511951742968782431
+    second: _akjeScore_7
+  - first:
+      213: 7284177948058261881
+    second: _akjeScore_8
+  - first:
+      213: -6720396733332872309
+    second: _akjeScore_9
+  - first:
+      213: 695029985026006252
+    second: _akjeScore_10
+  - first:
+      213: -6968767417739161447
+    second: _akjeScore_11
+  - first:
+      213: -3356965890885333506
+    second: _akjeScore_12
+  - first:
+      213: 2739111226234555818
+    second: _akjeScore_13
+  - first:
+      213: -3059202949266614719
+    second: _akjeScore_14
+  - first:
+      213: 3347477022387716164
+    second: _akjeScore_15
+  - first:
+      213: -863660028046062740
+    second: _akjeScore_16
+  - first:
+      213: -9144535030106339219
+    second: _akjeScore_17
+  - first:
+      213: -6445607942322093813
+    second: _akjeScore_18
+  - first:
+      213: -1045615613676105276
+    second: _akjeScore_19
+  - first:
+      213: 6718224513330287755
+    second: _akjeScore_20
+  - first:
+      213: -4852471419651313731
+    second: _akjeScore_21
+  - first:
+      213: -2956943675167632455
+    second: _akjeScore_22
+  - first:
+      213: 5734131011127223279
+    second: _akjeScore_23
+  - first:
+      213: 3883560966957715191
+    second: _akjeScore_24
+  - first:
+      213: -8908607327308131581
+    second: _akjeScore_25
+  - first:
+      213: 5151381990058595388
+    second: _akjeScore_26
+  - first:
+      213: 4324401341913779648
+    second: _akjeScore_27
+  - first:
+      213: 3501649355892423938
+    second: _akjeScore_28
+  - first:
+      213: 335030091016723828
+    second: _akjeScore_29
+  - first:
+      213: 8256810037414923009
+    second: _akjeScore_30
+  - first:
+      213: 4286553005712059361
+    second: _akjeScore_31
+  - first:
+      213: -4944604965166966746
+    second: _akjeScore_32
+  - first:
+      213: -5712790361670758526
+    second: _akjeScore_33
+  - first:
+      213: -6047108562298667491
+    second: _akjeScore_34
+  - first:
+      213: 7038906559903696937
+    second: _akjeScore_35
+  - first:
+      213: 4507341898699465199
+    second: _akjeScore_36
+  - first:
+      213: 3401981675719205594
+    second: _akjeScore_37
+  - first:
+      213: -9072521667401089827
+    second: _akjeScore_38
+  - first:
+      213: 2567991018897947919
+    second: _akjeScore_39
+  - first:
+      213: 1626391615094559996
+    second: 6result_kakje_00000
+  - first:
+      213: -3571037230173938932
+    second: 6result_kakje_00001
+  - first:
+      213: -6796020773416968791
+    second: 6result_kakje_00002
+  - first:
+      213: 3720884435717524340
+    second: 6result_kakje_00003
+  - first:
+      213: 8166265911609629969
+    second: 6result_kakje_00004
+  - first:
+      213: -1693100628795270950
+    second: 6result_kakje_00005
+  - first:
+      213: -7621310319018074524
+    second: 6result_kakje_00006
+  - first:
+      213: 5802259491721538635
+    second: 6result_kakje_00007
+  - first:
+      213: -6151737630766755574
+    second: 6result_kakje_00008
+  - first:
+      213: 4342820181813464611
+    second: 6result_kakje_00009
+  - first:
+      213: -869728115520966288
+    second: 6result_kakje_00010
+  - first:
+      213: -7449208225598997965
+    second: 6result_kakje_00011
+  - first:
+      213: 4893913575727703142
+    second: 6result_kakje_00012
+  - first:
+      213: 317271904767328871
+    second: 6result_kakje_00013
+  - first:
+      213: 330755222854320131
+    second: 6result_kakje_00014
+  - first:
+      213: -401181680040667285
+    second: 6result_kakje_00015
+  - first:
+      213: -982562679232861388
+    second: 6result_kakje_00016
+  - first:
+      213: 8941625370163566431
+    second: 6result_kakje_00017
+  - first:
+      213: -1466926484171682450
+    second: 6result_kakje_00018
+  - first:
+      213: 13554555039251319
+    second: 6result_kakje_00019
+  - first:
+      213: 3126381768359665865
+    second: 6result_kakje_00020
+  - first:
+      213: 230911441852434124
+    second: 6result_kakje_00021
+  - first:
+      213: 2789831782551716503
+    second: 6result_kakje_00022
+  - first:
+      213: -4672752395300201368
+    second: 6result_kakje_00023
+  - first:
+      213: -4176169142310093319
+    second: 6result_kakje_00024
+  - first:
+      213: -3810732446533578416
+    second: 6result_kakje_00025
+  - first:
+      213: 6711771749838347164
+    second: 6result_kakje_00026
+  - first:
+      213: 4480824886818456977
+    second: 6result_kakje_00027
+  - first:
+      213: -154834407101591993
+    second: 6result_kakje_00028
+  - first:
+      213: -5763790850852923859
+    second: 6result_kakje_00029
+  - first:
+      213: 411017058910643451
+    second: 6result_kakje_00030
+  - first:
+      213: 5421485090000161095
+    second: 6result_kakje_00031
+  - first:
+      213: 2436916258777234386
+    second: 6result_kakje_00032
+  - first:
+      213: 5831388163117563679
+    second: 6result_kakje_00033
+  - first:
+      213: -7276488377843888157
+    second: 6result_kakje_00034
+  - first:
+      213: 5817039665919574332
+    second: 6result_kakje_00035
+  - first:
+      213: 5281727236855564003
+    second: 6result_kakje_00036
+  - first:
+      213: -6238216762264119560
+    second: 6result_kakje_00037
+  - first:
+      213: -2405453051870590643
+    second: 6result_kakje_00038
+  - first:
+      213: -4188391679843457040
+    second: 6result_kakje_00039
+  - first:
+      213: 2073043790671499295
+    second: 6result_kakje_00040
+  - first:
+      213: -1286169882081373101
+    second: 6result_kakje_00041
+  - first:
+      213: 57644408941272531
+    second: 6result_kakje_00042
+  - first:
+      213: -4112263235493101547
+    second: 6result_kakje_00043
+  - first:
+      213: -26404846373464993
+    second: 6result_kakje_00044
+  - first:
+      213: 2373013960138900302
+    second: 6result_kakje_00045
+  - first:
+      213: 5149421529809342223
+    second: 6result_kakje_00046
+  - first:
+      213: 1249514767804342668
+    second: 6result_kakje_00047
+  - first:
+      213: -7490303916684089838
+    second: 6result_kakje_00048
+  - first:
+      213: 7325622602967405710
+    second: 6result_kakje_00049
+  - first:
+      213: -5649817840115435537
+    second: 6result_kakje_00050
+  - first:
+      213: -4770198968056978953
+    second: 6result_kakje_00051
+  - first:
+      213: 8580171596261440009
+    second: 6result_kakje_00052
+  - first:
+      213: -8504390843974092051
+    second: 6result_kakje_00053
+  - first:
+      213: 642646436323005735
+    second: 6result_kakje_00054
+  - first:
+      213: 9005239028069197488
+    second: 6result_kakje_00055
+  - first:
+      213: -3088816833334566701
+    second: 6result_kakje_00056
+  - first:
+      213: 349602169932546674
+    second: 6result_kakje_00057
+  - first:
+      213: -8286568121142223177
+    second: 6result_kakje_00058
+  - first:
+      213: -7846173029262239807
+    second: 6result_kakje_00059
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 6result_kakje_00000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 843
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf492639e8a129610800000000000000
+      internalID: 1626391615094559996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00001
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 843
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b99cf2f80217ec0800000000000000
+      internalID: -3571037230173938932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00002
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 843
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad5e4a0d1fafa1a0800000000000000
+      internalID: -6796020773416968791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00003
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 843
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b09312eac33a330800000000000000
+      internalID: 3720884435717524340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00004
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 843
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d9fd27497645170800000000000000
+      internalID: 8166265911609629969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00005
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 843
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8daa3d2f5e088e0800000000000000
+      internalID: -1693100628795270950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00006
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 843
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e98efe4aaab3690800000000000000
+      internalID: -7621310319018074524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00007
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 843
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c63ba1444c58050800000000000000
+      internalID: 5802259491721538635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00008
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 843
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a019eb6d733a0aaa0800000000000000
+      internalID: -6151737630766755574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00009
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 843
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e836432fbc44c30800000000000000
+      internalID: 4342820181813464611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00010
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 843
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071f33f03ea1ee3f0800000000000000
+      internalID: -869728115520966288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00011
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 843
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33af04f16981f9890800000000000000
+      internalID: -7449208225598997965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00012
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 662
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66426b2d77caae340800000000000000
+      internalID: 4893913575727703142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00013
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 662
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7624edccd1d276400800000000000000
+      internalID: 317271904767328871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00014
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 662
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30046dd6f14179400800000000000000
+      internalID: 330755222854320131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00015
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 662
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6718c63367be6af0800000000000000
+      internalID: -401181680040667285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00016
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 662
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43be4c6f27c3d52f0800000000000000
+      internalID: -982562679232861388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00017
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 662
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57583f36e8071c70800000000000000
+      internalID: 8941625370163566431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00018
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 662
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d855f722e64abe0800000000000000
+      internalID: -1466926484171682450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00019
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 662
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bf336cbc7203000800000000000000
+      internalID: 13554555039251319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00020
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 662
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0e55f67a3236b20800000000000000
+      internalID: 3126381768359665865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00021
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 662
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc60032abbc543300800000000000000
+      internalID: 230911441852434124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00022
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 662
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792071e993977b620800000000000000
+      internalID: 2789831782551716503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00023
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 662
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c96ca247c072fb0800000000000000
+      internalID: -4672752395300201368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00024
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 481
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdb8a69a444b06c0800000000000000
+      internalID: -4176169142310093319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00025
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 481
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0519f4ea70f8d1bc0800000000000000
+      internalID: -3810732446533578416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00026
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 481
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bdd9298d0052d50800000000000000
+      internalID: 6711771749838347164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00027
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 481
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1954b8f7e761f2e30800000000000000
+      internalID: 4480824886818456977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00028
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 481
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e83b55deae9ddf0800000000000000
+      internalID: -154834407101591993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00029
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 481
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26d34f42c6e200b0800000000000000
+      internalID: -5763790850852923859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00030
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 481
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4aef066d934b500800000000000000
+      internalID: 411017058910643451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00031
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 481
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749498017fbfc3b40800000000000000
+      internalID: 5421485090000161095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00032
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 481
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db7acf0d6aa1d120800000000000000
+      internalID: 2436916258777234386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00033
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 481
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f3a0a63a04de050800000000000000
+      internalID: 5831388163117563679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00034
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 481
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef4b527f58b40b90800000000000000
+      internalID: -7276488377843888157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00035
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 481
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c314e7391c64ab050800000000000000
+      internalID: 5817039665919574332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00036
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6084920f67c4940800000000000000
+      internalID: 5281727236855564003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00037
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 300
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f61c5df7e66d69a0800000000000000
+      internalID: -6238216762264119560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00038
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 300
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49cf57a13d1e9ed0800000000000000
+      internalID: -2405453051870590643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00039
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 300
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7aabe45f7dfd5c0800000000000000
+      internalID: -4188391679843457040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00040
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 300
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10ddca185ee4cc10800000000000000
+      internalID: 2073043790671499295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00041
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 843
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354dbb18e4b962ee0800000000000000
+      internalID: -1286169882081373101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00042
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 843
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd5b36d84bccc000800000000000000
+      internalID: 57644408941272531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00043
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 843
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5100981006e4ee6c0800000000000000
+      internalID: -4112263235493101547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00044
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 843
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f549f8f9ee032aff0800000000000000
+      internalID: -26404846373464993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00045
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 843
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e434f1dbf93aee020800000000000000
+      internalID: 2373013960138900302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00046
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 843
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fc80b399b667740800000000000000
+      internalID: 5149421529809342223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00047
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 843
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c812594af0b275110800000000000000
+      internalID: 1249514767804342668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00048
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 843
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216e35ae5481d0890800000000000000
+      internalID: -7490303916684089838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00049
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 843
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84d170d1f6d9a560800000000000000
+      internalID: 7325622602967405710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00050
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 843
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe73142cb90d791b0800000000000000
+      internalID: -5649817840115435537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00051
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 843
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f16709ef49dccdb0800000000000000
+      internalID: -4770198968056978953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00052
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 843
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a3f0b6b94e21770800000000000000
+      internalID: 8580171596261440009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00053
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 843
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deaf6d9e5955af980800000000000000
+      internalID: -8504390843974092051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00054
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 843
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725143967832be800800000000000000
+      internalID: 642646436323005735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00055
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 843
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b66c892f2909fc70800000000000000
+      internalID: 9005239028069197488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00056
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 843
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0a8d094715225d0800000000000000
+      internalID: -3088816833334566701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00057
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 843
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272098f32590ad400800000000000000
+      internalID: 349602169932546674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00058
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 843
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bedd3ca232300d80800000000000000
+      internalID: -8286568121142223177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6result_kakje_00059
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 843
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7d290633bcc1390800000000000000
+      internalID: -7846173029262239807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
