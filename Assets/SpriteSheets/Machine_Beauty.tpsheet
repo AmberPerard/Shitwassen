@@ -1,0 +1,105 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:931eb1eba58ee9fd65b868ce1e3caabb:5ebd75102cca1c0a70b87955735f86ce:f1102c2c5c538ae3b527c8a5b7725350$
+#
+:format=40300
+:texture=Machine_Beauty.png
+:size=8192x8192
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+3wasmachine_proper_00000;1;7591;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00001;1;6989;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00002;1;6387;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00003;1;5785;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00004;1;5183;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00005;1;4581;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00006;1;3979;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00007;1;3377;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00008;1;2775;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00009;1;2173;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00010;1;1571;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00011;1;969;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00012;1;367;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00013;603;7591;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00014;1205;7591;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00015;1807;7591;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00016;2409;7591;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00017;3011;7591;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00018;3613;7591;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00019;4215;7591;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00020;4817;7591;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00021;5419;7591;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00022;6021;7591;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00023;6623;7591;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00024;7225;7591;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00025;603;6989;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00026;603;6387;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00027;603;5785;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00028;603;5183;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00029;603;4581;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00030;603;3979;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00031;603;3377;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00032;603;2775;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00033;603;2173;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00034;603;1571;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00035;603;969;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00036;603;367;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00037;1205;6989;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00038;1807;6989;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00039;2409;6989;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00040;3011;6989;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00041;3613;6989;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00042;4215;6989;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00043;4817;6989;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00044;5419;6989;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00045;6021;6989;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00046;6623;6989;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00047;7225;6989;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00048;1205;6387;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00049;1205;5785;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00050;1205;5183;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00051;1205;4581;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00052;1205;3979;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00053;1205;3377;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00054;1205;2775;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00055;1205;2173;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00056;1205;1571;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00057;1205;969;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00058;1205;367;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00059;1807;6387;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00060;2409;6387;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00061;3011;6387;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00062;3613;6387;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00063;4215;6387;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00064;4817;6387;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00065;5419;6387;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00066;6021;6387;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00067;6623;6387;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00068;7225;6387;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00069;1807;5785;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00070;1807;5183;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00071;1807;4581;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00072;1807;3979;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00073;1807;3377;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00074;1807;2775;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00075;1807;2173;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00076;1807;1571;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00077;1807;969;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00078;1807;367;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00079;2409;5785;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00080;3011;5785;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00081;3613;5785;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00082;4215;5785;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00083;4817;5785;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00084;5419;5785;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00085;6021;5785;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00086;6623;5785;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00087;7225;5785;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00088;2409;5183;600;600; 0.5;0.5; 0;0;0;0
+3wasmachine_proper_00089;2409;4581;600;600; 0.5;0.5; 0;0;0;0

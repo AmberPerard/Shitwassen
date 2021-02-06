@@ -1,0 +1,41 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:f241ed4dc111bfa86a709068021f2aad:2c763ee8cdd2b494f79ca015fe34d0ba:ad8a555b118716ce3fc917d985ad7d92$
+#
+:format=40300
+:texture=Machine_Normal.png
+:size=4096x4096
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+2wasmachine_normal_00000;0;3496;600;600; 0.5;0.5; 0;0;0;0
+2wasmachine_normal_00001;600;3496;600;600; 0.5;0.5; 0;0;0;0
+2wasmachine_normal_00002;1200;3496;600;600; 0.5;0.5; 0;0;0;0
+2wasmachine_normal_00003;1800;3496;600;600; 0.5;0.5; 0;0;0;0
+2wasmachine_normal_00004;2400;3496;600;600; 0.5;0.5; 0;0;0;0
+2wasmachine_normal_00005;3000;3496;600;600; 0.5;0.5; 0;0;0;0
+2wasmachine_normal_00006;0;2896;600;600; 0.5;0.5; 0;0;0;0
+2wasmachine_normal_00007;600;2896;600;600; 0.5;0.5; 0;0;0;0
+2wasmachine_normal_00008;1200;2896;600;600; 0.5;0.5; 0;0;0;0
+2wasmachine_normal_00009;1800;2896;600;600; 0.5;0.5; 0;0;0;0
+2wasmachine_normal_00010;2400;2896;600;600; 0.5;0.5; 0;0;0;0
+2wasmachine_normal_00011;3000;2896;600;600; 0.5;0.5; 0;0;0;0
+2wasmachine_normal_00012;0;2296;600;600; 0.5;0.5; 0;0;0;0
+2wasmachine_normal_00013;600;2296;600;600; 0.5;0.5; 0;0;0;0
+2wasmachine_normal_00014;1200;2296;600;600; 0.5;0.5; 0;0;0;0
+2wasmachine_normal_00015;1800;2296;600;600; 0.5;0.5; 0;0;0;0
+2wasmachine_normal_00016;2400;2296;600;600; 0.5;0.5; 0;0;0;0
+2wasmachine_normal_00017;3000;2296;600;600; 0.5;0.5; 0;0;0;0
+2wasmachine_normal_00018;0;1696;600;600; 0.5;0.5; 0;0;0;0
+2wasmachine_normal_00019;600;1696;600;600; 0.5;0.5; 0;0;0;0
+2wasmachine_normal_00020;1200;1696;600;600; 0.5;0.5; 0;0;0;0
+2wasmachine_normal_00021;1800;1696;600;600; 0.5;0.5; 0;0;0;0
+2wasmachine_normal_00022;2400;1696;600;600; 0.5;0.5; 0;0;0;0
+2wasmachine_normal_00023;3000;1696;600;600; 0.5;0.5; 0;0;0;0
+2wasmachine_normal_00024;0;1096;600;600; 0.5;0.5; 0;0;0;0
+2wasmachine_normal_00025;600;1096;600;600; 0.5;0.5; 0;0;0;0
