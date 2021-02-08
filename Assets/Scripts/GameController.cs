@@ -29,6 +29,9 @@ public class GameController : MonoBehaviour
     public GameObject WonImage;
     public GameObject LosImage;
 
+    public Animator LeftAnimator;
+    public Animator RightAnimator;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -38,6 +41,9 @@ public class GameController : MonoBehaviour
         // start the game timer
         beginScreen.SetActive(true);
         endScreen.SetActive(false);
+
+        LeftAnimator.SetFloat("DirtyLvl", 0);
+        RightAnimator.SetFloat("DirtyLvl", 0);
     }
 
     // Update is called once per frame
@@ -55,7 +61,15 @@ public class GameController : MonoBehaviour
 
         if (gameIsActive == true)
          {
+            LeftAnimator.SetBool("GameActive", gameIsActive);
+            RightAnimator.SetBool("GameActive", gameIsActive);
             MoveTshirt.transform.Translate(Vector3.right * speed * Time.deltaTime);
+
+            float dirtyLvl =  Remap(MoveTshirt.transform.position.x, -5, 5, -1, 1);
+
+            Debug.Log(dirtyLvl);
+            LeftAnimator.SetFloat("DirtyLvl", -dirtyLvl);
+            RightAnimator.SetFloat("DirtyLvl", dirtyLvl);
         }
 
      if (MoveTshirt.transform.position.x >= 4.2)
@@ -88,5 +102,10 @@ public class GameController : MonoBehaviour
                 SceneManager.LoadScene(sceneName: "StartScene");
             }
         }
+    }
+
+    public float Remap( float value, float from1, float to1, float from2, float to2)
+    {
+        return (value - from1) / (to1 - from1) * (to2 - from2) + from2;
     }
 }

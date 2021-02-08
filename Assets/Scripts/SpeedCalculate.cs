@@ -19,7 +19,9 @@ public class SpeedCalculate : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (gameController.gameIsActive == true)
+        {
+
 
         if(Input.GetKeyDown("l")) {
             //Debug.Log("L had " + timerL + " seconds sinds the last click.");
@@ -37,5 +39,6 @@ public class SpeedCalculate : MonoBehaviour
         speedAddative = (1/timerL) - (1/timerK);
         //Debug.Log("speed: "+ speedAddative);
         gameController.speed = -(speedAddative/10);
+        }
 }
 }
