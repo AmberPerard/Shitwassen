@@ -12,3 +12,4 @@ After downloading the latest release, go to file -  build settings then choose y
 
 
 ## Arduino setup for the installation
+Upload the [Arduino sketches](https://github.com/Moongirl1207/Shitwassen/tree/develop/arduino) to you arduino, plug the arduino into you pc and you're good to go.
