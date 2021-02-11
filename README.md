@@ -3,7 +3,7 @@ Shitwassen is a game made inspired by tug of war in unity as a part in a 3 serie
 
 Links to the other games in this serie are found here:
 
--[Wack-A-Kak](https://github.com/Moongirl1207/Wack-A-Kak)
+-[Whack-A-Kak](https://github.com/Moongirl1207/Whack-A-Kak)
 
 -[Pooprace](https://github.com/Moongirl1207/Pooprace)
 
