@@ -42,6 +42,7 @@ public class GameController : MonoBehaviour
         beginScreen.SetActive(true);
         endScreen.SetActive(false);
 
+        //animator assets
         LeftAnimator.SetFloat("DirtyLvl", 0);
         RightAnimator.SetFloat("DirtyLvl", 0);
     }
@@ -49,6 +50,7 @@ public class GameController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //start timer show in seconds for the information screen
         startTimer -= Time.deltaTime;
         int seconds = Mathf.FloorToInt(startTimer);
         StartTimer.text = seconds.ToString();
@@ -59,6 +61,8 @@ public class GameController : MonoBehaviour
             gameIsActive = true;
         }
 
+
+        //if the game is active for the aniamtions and the movement of the tshirt in the bar
         if (gameIsActive == true)
          {
             LeftAnimator.SetBool("GameActive", gameIsActive);
@@ -72,28 +76,39 @@ public class GameController : MonoBehaviour
             RightAnimator.SetFloat("DirtyLvl", dirtyLvl);
         }
 
-     if (MoveTshirt.transform.position.x >= 4.2)
+
+        //tshirt is right - player 2 won
+        if (MoveTshirt.transform.position.x >= 4.2)
         {
             gameIsActive = false;
+
             WinnerName = "SPELER 2";
             winnerText.text =  WinnerName;
             WonImage.transform.position = PositionP2.position;
             LosImage.transform.position = PositionP1.position;
+
             endScreen.SetActive(true);
+
             MoveTshirt.transform.position = new Vector3(4.2f, MoveTshirt.transform.position.y, MoveTshirt.transform.position.z );
         }
 
-     if (MoveTshirt.transform.position.x <= -4.2)
+        //tshirt is left - player 1 won
+        if (MoveTshirt.transform.position.x <= -4.2)
         {
             gameIsActive = false;
+
             WinnerName = "SPELER 1";
             winnerText.text = WinnerName;
             WonImage.transform.position = PositionP1.position;
             LosImage.transform.position = PositionP2.position;
+
             endScreen.SetActive(true);
+
             MoveTshirt.transform.position = new Vector3(-4.2f, MoveTshirt.transform.position.y, MoveTshirt.transform.position.z );
         }
-     if (endScreen.activeSelf == true)
+
+        //create the loop for the installatio
+        if (endScreen.activeSelf == true)
         {
             endTimer -= Time.deltaTime;
 
@@ -104,6 +119,7 @@ public class GameController : MonoBehaviour
         }
     }
 
+    //remap range to other range
     public float Remap( float value, float from1, float to1, float from2, float to2)
     {
         return (value - from1) / (to1 - from1) * (to2 - from2) + from2;
